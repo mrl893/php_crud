@@ -10,10 +10,8 @@ a very basic CRUD for learning using ''PHP &amp; mySQL"
 
 #  About project
 
----- this project contains create, read update and delete---
+---- this project contains create, read update and delete and check---
 
 it contains
 
-index,php, delete.php,edit.php,update.php
-
------
+----index,php, delete.php,edit.php,update.ph-----
